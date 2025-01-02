@@ -3,7 +3,7 @@
 ## Participants
 
 | Name   | USN        |
-|--------|------------|
+|Dhanush|1DA23ET014|
 | Suhas A| 1DA22CS165 |
 | Sujan P| 1DA22CS167 |
 | Sharan Reddy M| 1DA22CS145|
